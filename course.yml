@@ -1,8 +1,8 @@
 course:
     title: Programmeren
-    short: ProgKI
-    submit: ProgKI2015
-    mail: progki@mprog.nl
+    short: ProgBG
+    submit: ProgBG2015
+    mail: progbg@mprog.nl
 
 acknowledgements:
     - Based on Stanford CS106a (http://see.stanford.edu).
