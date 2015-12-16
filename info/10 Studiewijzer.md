@@ -11,7 +11,7 @@ voor de cursus Heuristieken in semester 2.
 | Studielast | 6 studiepunten        |
 | Periode    | semester 1, periode 3 |
 
-Alle up-to-date informatie, materialen en opdrachten worden alléén gepubliceerd op de website van de cursus: <https://progbg.mprog.nl/>.
+Alle up-to-date informatie, materialen en opdrachten worden alléén gepubliceerd op de [website van de cursus](https://progbg.mprog.nl/).
 
 ## Staf
 
