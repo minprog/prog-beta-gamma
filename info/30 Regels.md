@@ -1,4 +1,6 @@
-## Samenwerken, fraude en plagiaat
+# Samenwerken, fraude en plagiaat
+
+Hieronder vind je een globale definitie van fraude en plagiaat binnen deze cursus. Boven elke opdracht staat daarnaast een concrete uitwerking van wat wij wel en niet redelijk vinden binnen de bestaande regelingen.
 
 Samenwerken tijdens dit vak is niet toegestaan. Dit vak heeft als doel jouw
 persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het
@@ -46,4 +48,4 @@ practicumopdracht. Andere studenten hebben een waarschuwing gekregen.
 Zie ook:
 
 * de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat), en
-* de onderwijs- en examenregeling van Kunstmatige Intelligentie.
+* de onderwijs- en examenregeling van Beta-Gamma.

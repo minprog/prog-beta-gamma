@@ -1,25 +1,27 @@
-# Objectgeoriënteerd programmeren
+# Inleiding Programmeren
 
-*Versie: november-december 2015 (1.0)*
+*Studiehandleiding, versie januari 2016 (nog niet definitief)*
 
-Welkom bij deze cursus Objectgeoriënteerd Programmeren. Dit vak begint bij het
-begin. Je leert over programmeren in het algemeen en je leert programmeren in
-Java. Je leert over het verband tussen de computer en de programma's die er op
-draaien.
+Welkom bij deze cursus Inleiding Programmeren voor Bèta-gamma. Dit vak begint bij het begin. Je
+leert over programmeren in het algemeen en je leert programmeren in Java. Je leert over het verband
+tussen de computer en de programma's die er op draaien. Het vak is een belangrijke voorbereiding
+voor de cursus Heuristieken in semester 2.
 
-|Coördinator|Martijn Stegeman                      |
-|Hoofdassistent|Tim Doolan                         |
-|Studielast |6 studiepunten                        |
+| Vakcode    | 5022INPR6Y            |
+| Studielast | 6 studiepunten        |
+| Periode    | semester 1, periode 3 |
+
+Alle up-to-date informatie, materialen en opdrachten worden alléén gepubliceerd op de website van de cursus: <https://progbg.mprog.nl/>.
 
 ## Staf
 
-De staf bestaat uit je docent en diverse studentassistenten. Door de omvang van
-de cursus kunnen we doorgaans niet reageren op e-mail over problem sets of
-praktische zaken. Spreek voor vragen je assistent aan tijdens het practicum of
-stuur in noodgevallen een e-mail.
+De staf bestaat uit je docent en diverse studentassistenten. Door de omvang van de cursus kunnen we
+doorgaans niet reageren op e-mail over inhoudelijke vragen, maar we zijn dan ook elke dag aanwezig
+voor hulp. Spreek voor vragen je assistent aan tijdens het practicum.
 
-Martijn Stegeman & Tim Doolan  
-progki@mprog.nl  
+Martijn Stegeman  
+*coördinator*  
+progbg@mprog.nl  
 kamer C3.204  
 telefoon (020) 525 5235
 
@@ -31,16 +33,21 @@ Bij de docent kun je terecht voor:
 * toestemming voor afwezigheid
 * ziekmelding
 
-### Studentassistenten
+### Assistenten
 
-Bij de studentassistenten kun je terecht voor:
+Tim Doolan  
+*hoofdassistent*
+
+Jelle van Assema  
+*assistent*
+
+Bij de assistenten kun je terecht voor:
 
 * begeleiding bij het oplossen van je opdrachten
 * tips voor een hoger cijfer
 * algemene informatie over het vak zoals die ook op de website staat
 * het doen van suggesties voor verbetering
-* het verkrijgen van feedback op de ingeleverde opdrachten (dit gaat via de
-  website)
+* het verkrijgen van feedback op de ingeleverde opdrachten (dit gaat via de website)
 
 De assistenten zijn altijd aanwezig tijdens de ingeroosterde computerpractica.
 Je kunt bovenal op ze rekenen voor hulp bij het maken van je opdracht. Zodra
@@ -75,64 +82,45 @@ kijken. Zo kunnen ze je tips geven om tot een hoger cijfer te komen.
 
 ## Verwachtingen
 
-Deze cursus bevat 6 programmeeropdrachten en 2 deeltentamens. Ter voorbereiding
-van beide zijn er zo'n 3 videocolleges per week; en we hebben schriftelijke
+Deze cursus bevat 5 programmeeropdrachten en 1 tentamen. Ter voorbereiding
+van beide zijn er zo'n 6 videocolleges per week; en we hebben schriftelijke
 materialen waarin van alles over programmeren wordt uitgelegd.
 
-* We verwachten dat je steeds vóór het practicum
-  je huiswerk hebt gedaan.
+* We verwachten dat je alle programmeeropdrachten serieus aanpakt en de uitwerking op tijd inlevert.
+* We verwachten dat je elke werkdag aanwezig bent bij de computerpractica.
+* We verwachten dat je steeds vóór het practicum je huiswerk hebt gedaan.
+* We verwachten dat je je feedback gebruikt om de opdrachten van de volgende week beter te maken.
+* We verwachten dat je de videocolleges altijd buiten de practicumuren kijkt.
 
-* We verwachten dat je minimaal zes uur per week aanwezig bent bij de
-  computerpractica. De aanwezigheid wordt bijgehouden via de website. Ben je erg
-  goed bezig? Mail dan om je code aan de docent te laten zien en we geven je
-  vrijstelling voor de week!
-
-* We verwachten dat je aanwezig bent bij de groep waarin je bent ingedeeld en niet bij andere groepen.
-
-* We verwachten dat je uiterlijk vrijdag om 15:00 uur je opdracht van de week inlevert.
-
-* We verwachten dat je de feedback over je opdrachten gebruikt om de opdrachten
-  van de volgende week beter te maken. We zullen hier actief naar kijken en dit
-  in de becijfering meenemen.
-
-* We verwachten dat je de videocolleges buiten de practicumuren kijkt en nooit
-  tijdens (practicum is geen ophokuur maar een plek om hard te werken en hulp te krijgen).
-
-Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen
-contact opneemt. We zijn altijd bereid mee te zoeken naar oplossingen.
+Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt. We
+zijn bereid mee te zoeken naar oplossingen. Gezien de korte duur van het vak is het essentieel om
+zo vroeg mogelijk alarm te slaan.
 
 ## Eindcijfer
 
 Je krijgt een eindcijfer voor dit vak als je:
 
 * voldoende uren aanwezig bent geweest tijdens de practica;
-* alle benodigde programma's op tijd en naar verwachting hebt aangeleverd;
-* gemiddeld een voldoende hebt gehaald voor de deeltentamens.
+* alle benodigde programma's op tijd hebt ingeleverd;
+* een voldoende hebt gehaald voor het tentamen.
 
-Als je niet aan de normen voor de opdrachten voldoet, krijg je geen cijfer voor
-het vak, maar een aantekening *niet aan de voorwaarden voldaan (NAV)*, een
-onvoldoende dus. Niettemin denken we dat elke student deze cursus kan halen.
+Ben je niet voldoende aanwezig geweest bij de practica, of niet aanwezig bij het tentamen, dan
+krijg je geen eindcijfer maar een aantekening *niet aanwezig (NA)* op je cijferlijst.
 
-Ben je niet voldoende aanwezig geweest bij de practica dan krijg je geen
-eindcijfer maar een aantekening *niet aanwezig (NA)* op je cijferlijst.
+Heb je een opdracht niet serieus geprobeerd, dan ontvang je een *NAV* voor het hele vak. (Dit is een vak in razend tempo. Voor meer flexibiliteit is het aan te raden een programmeervak in een andere periode te volgen.)
 
-Als je het practicum hebt gehaald, maar de deeltentamens niet, krijg je een
-*NAV* en kun je het tentamen éénmalig herkansen.
+Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een *NAV* en kun je het
+tentamen éénmalig herkansen. Bij een voldoende herkansing krijg je een normaal eindcijfer zoals hierboven beschreven.
 
-Het eindcijfer bestaat uit:
-
-* 50% het gemiddelde van de deeltentamens
-* 50% gebaseerd op het gemiddelde van de practica
-
-Een deel van het cijfer van de practica wordt bepaald door hoe je beter
-bent gaan programmeren tijdens het vak. Dit kan van invloed zijn op je
-eindcijfer.
+Het eindcijfer bestaat uit het gemiddelde van de cijfers van je programmeeropdrachten. Een deel van
+het cijfer wordt bepaald door hoe je beter bent gaan programmeren tijdens het vak. Dit kan van
+positieve invloed zijn op je eindcijfer.
 
 ## Literatuur
 
-De volgende boeken zijn verplichte literatuur. In de cursus staat vermeld
-wanneer je delen van deze boeken moet lezen en begrijpen. Zorg dat je het
-leeswerk één keer aan het begin van de week doet en gedurende de week nog eens.
+De volgende boeken zijn verplichte literatuur, en gratis verkrijgbaar. In de cursus staat vermeld
+wanneer je delen van deze boeken moet lezen en begrijpen. Zorg dat je het leeswerk één keer aan het
+begin van de week doet en gedurende de week nog eens.
 
 * Allen Downey  
   *Think Java*  
