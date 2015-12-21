@@ -41,6 +41,9 @@ Tim Doolan
 Jelle van Assema  
 *assistent*
 
+Maarten Inja  
+*assistent*
+
 Bij de assistenten kun je terecht voor:
 
 * begeleiding bij het oplossen van je opdrachten
@@ -89,12 +92,16 @@ materialen waarin van alles over programmeren wordt uitgelegd.
 * We verwachten dat je alle programmeeropdrachten serieus aanpakt en de uitwerking op tijd inlevert.
 * We verwachten dat je elke werkdag aanwezig bent bij de computerpractica.
 * We verwachten dat je steeds vóór het practicum je huiswerk hebt gedaan.
-* We verwachten dat je je feedback gebruikt om de opdrachten van de volgende week beter te maken.
+* We verwachten dat je je feedback gebruikt om de opdrachten van de volgende keer beter te maken.
 * We verwachten dat je de videocolleges altijd buiten de practicumuren kijkt.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt. We
 zijn bereid mee te zoeken naar oplossingen. Gezien de korte duur van het vak is het essentieel om
 zo vroeg mogelijk alarm te slaan.
+
+## Aanwezigheid
+
+Je moet *elke werkdag* tussen 13 en 17 uur aanwezig zijn in de geroosterde zalen. Daarvan kun je 10% missen zonder verdere gevolgen voor het halen van het vak. Loop je de kantjes er vanaf, dan kan het zijn dat je de 10% snel opmaakt!
 
 ## Eindcijfer
 
@@ -104,6 +111,13 @@ Je krijgt een eindcijfer voor dit vak als je:
 * alle benodigde programma's op tijd hebt ingeleverd;
 * een voldoende hebt gehaald voor het tentamen.
 
+Het eindcijfer bestaat uit het gemiddelde van de cijfers van je programmeeropdrachten. Een deel van
+het cijfer wordt bepaald door hoe je beter bent gaan programmeren tijdens het vak. Dit kan van
+positieve invloed zijn op je eindcijfer.
+
+| Problem sets    | 100%                   | geen herkansing   |
+| Tentamen        | 0%, moet wel voldoende | herkansing        |
+
 Ben je niet voldoende aanwezig geweest bij de practica, of niet aanwezig bij het tentamen, dan
 krijg je geen eindcijfer maar een aantekening *niet aanwezig (NA)* op je cijferlijst.
 
@@ -111,10 +125,6 @@ Heb je een opdracht niet serieus geprobeerd, dan ontvang je een *NAV* voor het h
 
 Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een *NAV* en kun je het
 tentamen éénmalig herkansen. Bij een voldoende herkansing krijg je een normaal eindcijfer zoals hierboven beschreven.
-
-Het eindcijfer bestaat uit het gemiddelde van de cijfers van je programmeeropdrachten. Een deel van
-het cijfer wordt bepaald door hoe je beter bent gaan programmeren tijdens het vak. Dit kan van
-positieve invloed zijn op je eindcijfer.
 
 ## Literatuur
 

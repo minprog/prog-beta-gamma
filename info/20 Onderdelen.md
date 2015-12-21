@@ -17,10 +17,6 @@ naar de assistenten toekomt als je vragen hebt over de stof. Je hoeft deze stof 
 te begrijpen na het lezen, maar het is essentieel dat je een raamwerk opbouwt zodat je snel genoeg
 kunt leren. Als je onvoorbereid komt is de kans vrij groot dat je het vak geheel niet haalt.
 
-## Aanwezigheid
-
-Je moet *elke werkdag* tussen 13 en 17 uur aanwezig zijn in de geroosterde zalen. Daarvan kun je 10% missen zonder verdere gevolgen voor het halen van het vak. Loop je de kantjes er vanaf, dan kan het zijn dat je de 10% snel opmaakt!
-
 ## Problem sets
 
 Er zijn vijf *problem sets* waarin je programma's gaat uitwerken en invullen. De bedoeling is dat
@@ -35,7 +31,7 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren:
 * Stijl --- hoe leesbaar is je code?
 
 Voor de berekening van het cijfer van je problem set geven we de volgende gewichten aan je
-deelcijfers: scope × (3 × correctness + 2 × design + 1 × style). Toch is het zo dat stijl een
+deelcijfers: omvang × (3 × correctheid + 2 × ontwerp + 1 × stijl). Toch is het zo dat stijl een
 zwaarwegende factor kan worden als je bijvoorbeeld bij herhaling geen vooruitgang maakt.
 
 De deadlines voor de opdrachten zijn:
