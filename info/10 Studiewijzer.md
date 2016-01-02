@@ -137,5 +137,5 @@ begin van de week doet en gedurende de week nog eens.
   Green Tea Press, 2013  
 
 * Eric Roberts  
-  *Karel the robot learns Java*  
+  *[Karel the robot learns Java](http://cs106a.stanford.edu/book/karel-the-robot-learns-java.pdf)*  
   Stanford University, 2005  
