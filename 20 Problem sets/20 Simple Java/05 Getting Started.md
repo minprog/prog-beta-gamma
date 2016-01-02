@@ -1,6 +1,6 @@
 # Getting Started
 
-Most likely you have already installed the virtual machine that contains Ubuntu, as
+Possibly, you have already installed the virtual machine that contains Ubuntu, as
 needed for this course. If not, head to <https://datanose.nl/#byod> and click
 through to the VMware Store to "order" (for free) VMware Workstation for
 Windows or VMware Fusion for Mac.
