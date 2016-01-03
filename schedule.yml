@@ -7,7 +7,7 @@ Assignment 2:
     'Problem Set 2: Simple Java': '/psets/simple-java'
     'Style guide': '/reference/style-guide'
 Assignment 3:
-    'Lectures on interactive graphics': '/lectures/week-3'
+    'Lectures on object orientation': '/lectures/week-3'
     'Problem Set 3: Breakout': '/psets/breakout'
     'Style guide': '/reference/style-guide'
 Assignment 4:
@@ -19,3 +19,4 @@ Assignment 5:
     'Lectures on multidimensional arrays and debugging': '/lectures/week-5'
     'Problem Set 5: Yahtzee': '/psets/yahtzee'
     'Style guide': '/reference/style-guide'
+    'Quiz preparation': '/quizzes/quiz-1'
