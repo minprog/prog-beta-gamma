@@ -1,26 +1,21 @@
-Week 1:
-    'Lectures on Karel the Robot and ACM programs': '/lectures/week-1'
+Assignment 1:
+    'Lectures on Karel the Robot': '/lectures/week-1'
     'Problem Set 1: Karel': '/psets/karel'
     'Style guide': '/reference/style-guide'
-Week 2:
+Assignment 2:
     'Lectures on interactive graphics': '/lectures/week-2'
-    'Problem Set 2: Breakout': '/psets/breakout'
+    'Problem Set 2: Simple Java': '/psets/simple-java'
     'Style guide': '/reference/style-guide'
-Week 3:
-    'Lectures on strings, arrays and files': '/lectures/week-3'
-    'Problem Set 3: Hangman': '/psets/hangman'
+Assignment 3:
+    'Lectures on interactive graphics': '/lectures/week-3'
+    'Problem Set 3: Breakout': '/psets/breakout'
     'Style guide': '/reference/style-guide'
-    'Quiz prep': '/quizzes/quiz-1'
-Week 5:
+Assignment 4:
+    'Lectures on strings, arrays and files': '/lectures/week-4'
+    'Problem Set 4: Hangman': '/psets/hangman'
+    'Style guide': '/reference/style-guide'
+    'Quiz preparation': '/quizzes/quiz-1'
+Assignment 5:
     'Lectures on multidimensional arrays and debugging': '/lectures/week-5'
-    'Problem Set 4: Yahtzee': '/psets/yahtzee'
+    'Problem Set 5: Yahtzee': '/psets/yahtzee'
     'Style guide': '/reference/style-guide'
-Week 6:
-    'Lectures on Swing and interactors': '/lectures/week-6'
-    'Problem Set 5: NameSurfer': '/psets/namesurfer'
-    'Style guide': '/reference/style-guide'
-Week 7:
-    'Lectures on standard Java, and... Python!': '/lectures/week-7'
-    'Problem Set: NameSurfer and Python': '/psets/namesurfer-part-2'
-    'Style guide': '/reference/style-guide'
-    'Quiz prep': '/quizzes/quiz-2'
