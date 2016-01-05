@@ -7,6 +7,8 @@ programming. Initially, Karel understands only a very small number of predefined
 commands, but an important part of the programming process is teaching Karel new
 commands that extend its capabilities".[^1]
 
+[*Karel the robot learns Java*](karel-the-robot-learns-java.pdf)
+
 ## Getting started
 
 * Go into the **Dropbox** directory you made in the Getting Started by executing
