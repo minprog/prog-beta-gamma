@@ -13,14 +13,14 @@
 
 ## Getting started
 
-Download the starter kit from [here](cdn://pset2.zip) and extract it in your
+Download the starter kit from [here](cdn://pset3.zip) and extract it in your
 **Dropbox** directory:
 
     cd Dropbox
-    wget --content-disposition "http://.../pset2.zip"
-    unzip pset2.zip
+    wget --content-disposition "http://.../pset3.zip"
+    unzip pset3.zip
 
-Now **cd** into **pset2** and you're ready to start!
+Now **cd** into **pset3** and you're ready to start!
 
 ## The Breakout game
 
