@@ -1,4 +1,4 @@
-# Problem Set 2: Breakout
+# Problem Set 3: Breakout
 
 This is a large assignment, but well within your capabilities, as long as you
 break the problem up into manageable pieces. The decomposition is discussed in
