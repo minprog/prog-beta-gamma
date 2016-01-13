@@ -298,7 +298,7 @@ few more details you need to take into account:
 
 Here are some survival hints for this assignment:
 
-* *Start as soon as possible.* This assignment is due on Friday, which will be
+* *Start as soon as possible.* This assignment is due on Monday, which will be
    here before you know it. If you wait until the until the last moment, you
    will have a very hard time getting it all together.
 * *Implement the program in stages, as described on this page.* Don't try to get
