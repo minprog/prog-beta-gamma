@@ -1,4 +1,5 @@
 formulas:
+    karel: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     simple: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     breakout: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     hangman: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
