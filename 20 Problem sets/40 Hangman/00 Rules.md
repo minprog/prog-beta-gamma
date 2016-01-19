@@ -14,8 +14,8 @@ Hangman.
 
 Review these chapters if needed; they cover important concepts from last week. If you skim them a little, you may be able to use them as a good reference when writing your programs! However, before anything else, best to watch this week's lectures!
 
-- ["Strings and things"](http://www.greenteapress.com/thinkapjava/html/thinkjava010.html) from Think Java
-- ["Create your own objects"](http://www.greenteapress.com/thinkapjava/html/thinkjava013.html) from Think Java
+- ["Strings and things"](http://www.greenteapress.com/thinkjava5/html/thinkjava010.html) from Think Java
+- ["Create your own objects"](http://www.greenteapress.com/thinkjava5/html/thinkjava013.html) from Think Java
 
 The chapter below contains useful information on debugging. You will need this in class!
 
