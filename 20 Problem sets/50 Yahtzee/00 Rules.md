@@ -1,7 +1,7 @@
 # Problem Set 5: Yahtzee
 
 For this assignment, your mission is to write a program that plays the game of
-Hangman.
+Yahtzee.
 
 ## Objectives
 
