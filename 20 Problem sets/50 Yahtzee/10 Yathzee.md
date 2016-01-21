@@ -185,7 +185,7 @@ score of 273 to 192 (shown below)!
 
 ### What is provided in the starter project
 
-[Download it now.](cdn://pset4.zip) The starter project provides the following:
+[Download it now.](cdn://pset5.zip) The starter project provides the following:
 
 * A `Yahtzee.java` file that you need to expand to play the game. The initialization
 code, however, is already provided.

@@ -5,17 +5,16 @@ Hangman.
 
 ## Objectives
 
-- Practice string manipulation.
-- Have a try at file I/O.
-- Start using `ArrayList`s.
-- Acquaint you with modularizing software into multiple classes.
+- Arrays
+- Multi-dimensional arrays
+- Working with an existing interface
 
 ## Recommended Reading
 
 Review these chapters if needed; they cover important concepts from last week. If you skim them a little, you may be able to use them as a good reference when writing your programs! However, before anything else, best to watch this week's lectures!
 
-- ["Strings and things"](http://www.greenteapress.com/thinkjava5/html/thinkjava010.html) from Think Java
-- ["Create your own objects"](http://www.greenteapress.com/thinkjava5/html/thinkjava013.html) from Think Java
+- ["Arrays"](http://www.greenteapress.com/thinkjava5/html/thinkjava014.html) from Think Java
+- ["Arrays of Objects"](http://www.greenteapress.com/thinkjava5/html/thinkjava015.html) from Think Java
 
 The chapter below contains useful information on debugging. You will need this in class!
 
