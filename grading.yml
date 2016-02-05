@@ -4,32 +4,27 @@ formulas:
     breakout: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     hangman: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     yahtzee: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
-    namesurf: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     q1: (scope / 34.0 * 9 + 1).round(1)
-    q2: (scope / 34.0 * 9 + 1).round(1)
 
 calculation:
     resit:
-        resit: 1
         psets: 1
     normal:
-        quizzes: 1
         psets: 1
 
 psets:
     type: float
     grades:
+        karel: 1
         simple: 1
         breakout: 1
         hangman: 1
         yahtzee: 1
-        namesurf: 2
 
 quizzes:
     type: float
     grades:
         q1: 1
-        q2: 1
 
 resit:
     type: float
